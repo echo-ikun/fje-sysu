@@ -65,15 +65,15 @@ sudo mv fje /usr/local/bin/
 
 **示例2:** (这里采用了我自己编写的更完整的json文件去测试)
 
-![image-20240612165621822](/Users/echokun/Library/Application Support/typora-user-images/image-20240612165621822.png) 
+![image-20240612165621822](imgs/4.png) 
 
 **示例3:**
 
-![image-20240612175250077](/Users/echokun/Library/Application Support/typora-user-images/image-20240612175250077.png) 
+![image-20240612175250077](imgs/2.png) 
 
 **示例4:**
 
-![image-20240612175338112](/Users/echokun/Library/Application Support/typora-user-images/image-20240612175338112.png)
+![image-20240612225022582](imgs/5.png)
 
 ```shell
  fje  -f test2.json -s rectangle -i poker  
@@ -85,7 +85,7 @@ sudo mv fje /usr/local/bin/
 
 ## 3. 类图展示：
 
-<img src="/Users/echokun/Library/Application Support/typora-user-images/image-20240612170247899.png" alt="image-20240612170247899" style="zoom:80%;" /> 
+<img src="imgs/1.png" alt="image-20240612170247899" style="zoom:150%;" /> 
 
 #### 1. 工厂模式： icon的实现是具体的产品；icon_family是它们的工厂。
 
