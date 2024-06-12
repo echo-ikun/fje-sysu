@@ -61,7 +61,7 @@ sudo mv fje /usr/local/bin/
 
 **示例1：**
 
-![image-20240612171159636](/Users/echokun/Library/Application Support/typora-user-images/image-20240612171159636.png)
+![image-20240612171159636](imgs/3.png)
 
 **示例2:** (这里采用了我自己编写的更完整的json文件去测试)
 
