@@ -1,0 +1,21 @@
+{
+    "oranges": {
+        "mandarin": {
+            "clementine": null,
+            "tangerine": "cheap & juicy!"
+        },
+        "aiyuan":{
+          "sichuanaiyuan": "nice and light!",
+          "ganzhoujicheng": "cheap"
+        }
+    },
+    "watermelon": {
+        "black beauty":  "juicy, dear"
+    },
+    "apples": {
+        "gala":{
+          "qingp": null
+        },
+        "pink lady": null
+    }
+}
